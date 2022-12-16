@@ -67,7 +67,7 @@ tadi saat kita membuat brnach baru dengan cara "git checkout -b <nama-branch>", 
   git add <nama-file>
   ```
   
-  berikut untuk menambahkan semua file yang tadi sempat di rubah:
+  berikut untuk menambahkan semua file yang tadi sempat di ubah:
   ```
   git add .
   ```
