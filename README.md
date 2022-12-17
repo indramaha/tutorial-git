@@ -1,4 +1,4 @@
-# tutorial-git
+# TUTORIAL GIT
 
 Ini bisa jadi referensi untuk menggunakan git pada saat mengerjakan project bareng dengan team
 
